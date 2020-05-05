@@ -56,20 +56,7 @@ covid.head(10)
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -285,7 +272,7 @@ covid.head(10)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -309,20 +296,7 @@ covid.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -419,7 +393,7 @@ covid.head()
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -444,21 +418,6 @@ regions.head()
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -549,7 +508,6 @@ regions.head()
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -573,20 +531,7 @@ regions.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -623,7 +568,6 @@ regions.head()
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -666,20 +610,6 @@ data
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -879,7 +809,7 @@ data
   </tbody>
 </table>
 <p>248 rows × 13 columns</p>
-</div>
+
 
 
 
@@ -935,21 +865,6 @@ grouped_data.get_group("Asia")
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1740,7 +1655,6 @@ grouped_data.get_group("Asia")
     </tr>
   </tbody>
 </table>
-</div>
 
 
 
@@ -1761,20 +1675,6 @@ continent.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1877,7 +1777,7 @@ continent.head()
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 

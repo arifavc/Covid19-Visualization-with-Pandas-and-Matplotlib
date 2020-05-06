@@ -1,4 +1,5 @@
 # Covid 19 Data Visualization 
+**Daha temiz bir görüntü için covid19.ipynb dosyasından inceleyebilirsiniz**
 
 Dünyanın ve ülkelerin zamana bağlı değişim grafikleri ve kıtalara göre ülkelerdeki vaka, ölüm verilerini görselleştirdim.
 
